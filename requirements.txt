@@ -22,7 +22,7 @@ h5py==3.6.0
 httptools==0.4.0
 idna==3.3
 importlib-metadata==4.11.3
-keras==2.8.0
+keras==2.14.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.2
 libclang==13.0.0
@@ -55,7 +55,7 @@ starlette==0.17.1
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.8.0
+tensorflow==2.14.0
 tensorflow-io-gcs-filesystem==0.24.0
 termcolor==1.1.0
 tf-estimator-nightly==2.8.0.dev2021122109
