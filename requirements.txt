@@ -1,4 +1,4 @@
-absl-py==1.0.0
+absl-py==0.14.1
 anyio==3.5.0
 asgiref==3.5.0
 astunparse==1.6.3
@@ -56,7 +56,7 @@ tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.14.0
-tensorflow-io-gcs-filesystem==0.24.0
+tensorflow-io-gcs-filesystem==0.36.0
 termcolor==1.1.0
 tf-estimator-nightly==2.8.0.dev2021122109
 tqdm==4.64.0
